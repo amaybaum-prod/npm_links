@@ -16,6 +16,6 @@
     "lodash": "^4.17.21",
     "@myorg/math-utils": "file:local-packages/math-utils-local",
     "@myorg/string-helpers": "file:local-packages/string-helpers-local",
-    "mongodb": "^2.2.36"
+    "mongodb": "^3.0.0"
   }
 }
