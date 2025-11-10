@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Main project demonstrating npm-link with local and open source dependencies",
   "main": "index.js",
+  "workspaces": [
+    "local-packages/*"
+  ],
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
